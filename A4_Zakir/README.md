@@ -1,5 +1,5 @@
 # A4: modules, functions and imports¶
-This notebook will provide explanation of the module's functions, their purpose, and dependencies. It also includes an example usage section to demonstrate how to use the functions in practice.
+This directory will provide explanation of the module's functions, their purpose, and dependencies. It also includes an example usage section to demonstrate how to use the functions in practice.
 It tries to use relevant but simple geofunctions to perform basic analysis on raster data. However the primary objective of this exercise is to understand the packaging of functions as separate libraries and the utilization of docstrings in the documentation process.
 This module provides functions for reading, analyzing, and visualizing raster data. It leverages various Python libraries, including xarray, rasterio, pandas, and numpy, to perform different operations on raster datasets.
 
@@ -31,4 +31,4 @@ This module depends on the following Python libraries:
 
 Make sure to install these libraries before using the functions in this module.
 
-## Example Usage (Provided in the start of each section)
+## Example Usage (Provided in the start of each section of the notebook)
